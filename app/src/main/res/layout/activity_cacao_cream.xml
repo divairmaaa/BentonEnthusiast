@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_cacao_cream"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/text">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="756dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/cacaocream" />
+
+            <TextView
+                style="@style/Product.Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_marginBottom="8dp"
+                android:text="@string/cacaocream_name"
+                android:textSize="20sp" />
+
+            <TextView
+                style="@style/Product.Price"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:text="@string/cacaocream_price"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                style="@style/Product"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:lineSpacingMultiplier="1"
+                android:text="@string/cacaocream_det"
+                android:textColor="@android:color/black" />
+
+            <TextView
+                style="@style/Rincian"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:layout_marginBottom="8dp"
+                android:text="Information"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:layout_marginBottom="@dimen/activity_vertical_margin">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        style="@style/Rincian"
+                        android:text="@string/tab_vol"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        style="@style/Isi"
+                        android:layout_weight="1"
+                        android:text="@string/cacaocream_vol"
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        style="@style/Rincian"
+                        android:layout_marginRight="@dimen/activity_vertical_margin"
+                        android:text="@string/tab_fitur"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        style="@style/Isi"
+                        android:layout_weight="1"
+                        android:text="@string/cacaocream_fitur"
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        style="@style/Rincian"
+                        android:layout_marginRight="@dimen/activity_vertical_margin"
+                        android:text="@string/tab_how"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        style="@style/Isi"
+                        android:layout_weight="1"
+                        android:text="@string/cacaocream_how"
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp">
+
+                    <TextView
+                        style="@style/Rincian"
+                        android:layout_marginRight="@dimen/activity_vertical_margin"
+                        android:text="@string/tab_ing"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        style="@style/Isi"
+                        android:layout_weight="1"
+                        android:text="@string/cacaocream_ingredients"
+                        android:textColor="@android:color/black"
+                        android:textSize="14sp" />
+                </TableRow>
+
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/btm_nav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:itemBackground="@color/colorPrimary"
+        app:itemIconTint="@drawable/state_list"
+        app:itemTextColor="@drawable/state_list"
+        app:menu="@menu/menu_bottom_nav_view" />
+</RelativeLayout>

@@ -1,0 +1,303 @@
+<resources>
+    <string name="app_name">Benton Enthusiast</string>
+
+    <string name="product_name">Product</string>
+    <string name="price">Price</string>
+
+    <string name="product">Product</string>
+    <string name="tips_for_your_skin">Tips</string>
+    <string name="about">About</string>
+
+    <string name="nama">Diva Irma Ayunita</string>
+    <string name="email">divairmaa@yahoo.com</string>
+
+    <string name="tab_vol">Volume</string>
+    <string name="tab_fitur">Features</string>
+    <string name="tab_how">How To Use</string>
+    <string name="tab_ing">Ingredients</string>
+    <string name="tab_rec">Recommended for</string>
+
+    <string name="cacaotoner_name">Cacao Moist and Mild Toner 150ml</string>
+    <string name="cacaotoner_price">IDR 218,571</string>
+    <string name="cacaotoner_det">Benton’s Cacao Moist and Mild Toner is a lightweight and hydrating toner. With Cacao Extracts and Hyaluronic Acid, this toner replenishes moisture to skin. Various botanical extracts in the toner further help to keep skin smooth.</string>
+    <string name="cacaotoner_vol">150ml / 5.07 fl.oz.</string>
+    <string name="cacaotoner_fitur">For all skin types including sensitive skin, transparent liquid, white cap container</string>
+    <string name="cacaotoner_how">After cleansing, apply on skin with a cotton pad or with hands and pat until absorbed</string>
+    <string name="cacaotoner_ingredients">Theobroma Cacao (Cocoa) Extract, Aqua (Water), Butylene Glycol, Pentylene Glycol, 1,2-Hexanediol, Theobroma Cacao (Cocoa) Seed Extract, Sodium Hyaluronate, Salix Alba (Willow) Bark Extract, Salix Nigra (Willow) Bark Extract, Madecassoside, Theobroma Cacao (Cocoa) Flower Extract, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract, Betaine, Xanthan Gum</string>
+    <string name="cacaotoner_recom">- Skin with a poor oil-water balance\n
+        - Oily skin that needs a light product\n
+        - Skin that wants a clear skin tone with a mild hydrating product\n
+        - Dull skin lacking nourishment\n
+        - Skin sensitive to harmful chemicals and external stressors\n
+        - Dehydrated and tight skin</string>
+
+    <string name="cacaoserum_name">Cacao Most and Mild Serum 30ml</string>
+    <string name="cacaoserum_price">IDR 206,428</string>
+    <string name="cacaoserum_det">Benton’s Cacao Moist and Mild Serum is a lightweight and hydrating serum. With Cacao Extracts and Hyaluronic Acid, this serum replenishes moisture to skin. Various botanical extracts in the serum further help to keep skin smooth.</string>
+    <string name="cacaoserum_vol">30ml / 1.01 fl.oz.</string>
+    <string name="cacaoserum_fitur">For all skin types including sensitive skin, transparent liquid, dropper bottle</string>
+    <string name="cacaoserum_how">After cleansing and toning, apply this serum at night after or in place of your essence, before moisturizing</string>
+    <string name="cacaoserum_ingredients">Theobroma Cacao (Cocoa) Extract, Butylene Glycol, Aqua (Water), Dipropylene Glycol, 1,2-Hexanediol, Pentylene Glycol, Glycerin, Sodium Hyaluronate, Centella Asiatica Extract, Scutellaria Baicalensis Root Extract, Polygonum Cuspidatum Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Camellia Sinensis Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Theobroma Cacao (Cocoa) Seed Extract, Salix Alba (Willow) Bark Extract, Salix Nigra (Willow) Bark Extract, Dipotassium Glycyrrhizate, Theobroma Cacao (Cocoa) Flower Extract, Madecassoside, Allantoin, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract, Betaine, Panthenol, Carbomer, Arginine</string>
+    <string name="cacaoserum_recom">- Dull skin lacking nourishment\n
+        - Skin with a poor water-oil balance\n
+        - Skin that wants a clear skin tone with a mild hydrating product\n
+        - Dehydrated and tight skin\n
+        - Skin sensitive to harmful chemicals and external stressors\n
+        - Skin that needs a light product</string>
+
+    <string name="cacaocream_name">Cacao Most and Mild Cream 50g</string>
+    <string name="cacaocream_price">IDR 182,857</string>
+    <string name="cacaocream_det"> Cacao Moist and Mild Cream is a lightweight moisturizer with soft texture. With Cacao Extracts and Hyaluronic Acid, this cream provides moisture to skin.  Various botanical extracts in the cream further help to keep skin smooth.</string>
+    <string name="cacaocream_vol">50g</string>
+    <string name="cacaocream_fitur">For all skin types including sensitive skin, white cream, tube type</string>
+    <string name="cacaocream_how">Apply a suitable amount to face and gently tap until absorbed</string>
+    <string name="cacaocream_ingredients">Theobroma Cacao (Cocoa) Extract, Theobroma Cacao (Cocoa) Seed Butter, Butylene Glycol, Glycerin, Aqua (Water), Sorbitan Olivate, 1,2-Hexanediol,  Pentylene Glycol, Theobroma Cacao (Cocoa) Seed Extract, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract, Sodium Hyaluronate, Polyglutamic Acid, Madecassoside, Beta-Glucan, Carbomer, Arginine, Xanthan Gum</string>
+    <string name="cacaocream_recom">- Lightweight Texture Suitable for S/S Season\n
+        - Dewy Finish\n
+        - Hydrating\n
+        - Skin Water-Oil Balance\n
+        - Mild Formula (No Coloring, No Fragrance)</string>
+
+    <string name="bf_name">Dear My Best Friend Bar-Soap</string>
+    <string name="bf_price">IDR 160,714</string>
+    <string name="bf_det">DEAR MY BEST FRIEND BAR is a natural soap for both body and face. We wished to present a rest to your BF, body and face, and hence named the soap ‘Dear My Best Friend Bar’. Dear My Best Friend Bar (aka BF Bar) is Benton’s first naturally-derived soap made with a vegetable oil base and various botanical ingredients, which enable moisturizing cleansing.</string>
+    <string name="bf_vol">85g / 3.00 oz</string>
+    <string name="bf_fitur">For all skin types including sensitive skin</string>
+    <string name="bf_how">Lather enough and cleanse</string>
+    <string name="bf_ingredients">Cocos Nucifera (Coconut) Oil, Elaeis Guineensis (Palm) Oil, Olea Europaea (Olive) Fruit Oil, Ricinus Communis (Castor) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Macadamia Integrifolia Seed Oil, Butyrospermum Parkii (Shea) Butter, Oryza Sativa (Rice) Bran Oil, Water (Aqua), Sodium Hydroxide, Ocimum Basilicum (Basil) Extract, Avena Sativa (Oat) Kernel Flour, Citrus Unshiu Peel Extract, Theobroma Cacao (Cocoa) Seed Powder, Calamine, Persea Gratissima (Avocado) Oil, Moringa Oleifera Leaf Extract, Papain, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Honey, Melaleuca Alternifolia (Tea Tree) Extract, Propolis Extract, Kaolin Centella Asiatica Extract, Laminaria Japonica Extract, Lavandula Angustifolia (Lavender) Oil, Chamaecyparis Obtusa Oil</string>
+    <string name="bf_recom">- Dry and sensitive skin feeling stripped after cleansing\n
+        - Oily face or oily body parts\n
+        - Blemished skin : face, chest, or back\n
+        - Bumpy and rough skin\n
+        - Skin tired from body wastes and external stressors\n
+        - Skin that wants a healthy, naturally derived soap</string>
+
+    <string name="coco_name">Shea Butter and Coconut Hand Cream 50g</string>
+    <string name="coco_price">IDR 117,857</string>
+    <string name="coco_det">Benton Shea Butter and Coconut Hand Cream is a naturally derived product made up of 20percent Shea Butter and 3percent Coconut Oil. This hand cream keeps hands soft and silky. Adenosine in the formula further helps smooth hands.</string>
+    <string name="coco_vol">50g / 1.76 fl.oz</string>
+    <string name="coco_fitur">For all skin types</string>
+    <string name="coco_how">Take an appropriate amount of the product and apply to your hand, then softly tab to enhance the absorption.</string>
+    <string name="coco_ingredients">Aqua (Water), Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Glycerin, Methylpropanediol, Cocos Nucifera (Coconut) Oil, Cetearyl Alcohol, Pentylene Glycol, Cetearyl Olivate, Sorbitan Olivate,
+               Helianthus Annuus (Sunflower) Seed Oil, Centella Asiatica Extract, Scutellaria Baicalensis Root Extract,
+               Polygonum Cuspidatum Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Camellia Sinensis Leaf Extract,
+               Rosmarinus Officinalis (Rosemary) Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract,
+               Butyrospermum Parkii (Shea) Butter Extract, 1,2- Hexanediol, Zanthoxylum Piperitum Fruit Extract,
+               Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract, Butylene Glycol, Carbomer, Arginine,
+               Xanthan Gum, Adenosine</string>
+    <string name="coco_recom">-</string>
+
+    <string name="olive_name">Shea Butter and Olive Hand Cream 50g</string>
+    <string name="olive_price">IDR 125,714</string>
+    <string name="olive_det">Benton Shea Butter and Olive Hand Cream is a naturally derived product with a refreshing scent made up of Shea Butter, Olive Oil and Hyaluronic Acid. This hand cream helps keep hands fresh and moisturized without being sticky.</string>
+    <string name="olive_vol">50g / 1.76 fl.oz</string>
+    <string name="olive_fitur">For all skin types</string>
+    <string name="olive_how">Take an appropriate amount of the product and apply to your hand, then softly tab to enhance the absorption.</string>
+    <string name="olive_ingredients">Aqua (Water), Butyrospermum Parkii (Shea) Butter (10%), Glycerin, Caprylic/Capric Triglyceride, Olea Europaea (Olive) Fruit Oil (2%), Cetearyl Alcohol, Sodium Hyaluronate, Panthenol, Cetearyl Olivate, Sorbitan Olivate, Butyrospermum Parkii (Shea) Butter Extract, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract, 1,2-Hexanediol, Caprylyl Glycol, Carbomer, Arginine, Butylene Glycol, Tocopherol, Citrus Nobilis (Mandarin Orange) Peel Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil, Pelargonium Graveolens Flower Oil</string>
+    <string name="olive_recom">-</string>
+
+    <string name="ec_name">Fermentation Eye Cream 30g</string>
+    <string name="ec_price">IDR 289,285</string>
+    <string name="ec_det">Benton Fermentation Eye Cream is a premium eye cream containing Galactomyces Ferment Filtrate, Bifida Ferment Lysate, sh-Oligopeptide-1, and Ceramides. This eye cream helps to achieve smooth and youthful eye areas.</string>
+    <string name="ec_vol">30g / 1.01 fl oz</string>
+    <string name="ec_fitur">For all skin types</string>
+    <string name="ec_how">Take an appropriate amount of the product and apply to the area around your eyes, then softly tab to enhance the absorption.</string>
+    <string name="ec_ingredients">Galactomyces Ferment Filtrate, Aqua (Water), Butylene Glycol, Caprylic/Capric Triglyceride, Glycerin,
+               Cetearyl Alcohol, Cetyl Ethylhexanoate, Pentylene Glycol, Macadamia Integrifolia Seed Oil, Cetearyl Olivate,
+               Bifida Ferment Lysate, Ceramide NP, Althaea Rosea Root Extract, Aloe Barbadensis Leaf Extract, Sorbitan Olivate,
+               Sorbitan Stearate, Sodium Hyaluronate, Allantoin, Betaine, Beta-Glucan, Panthenol, sh-Oligopeptide-1,
+               Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Arginine,1,2-Hexanediol, Pulsatilla Koreana Extract,
+               Zanthoxylum Piperitum Fruit Extract, Usnea Barbata (Lichen) Extract, Hydrogenated Lecithin, Adenosine,
+               Polysorbate 20, Lecithin</string>
+    <string name="ec_recom">-</string>
+
+    <string name="fes_name">Fermentation Essence 100ml</string>
+    <string name="fes_price">IDR 308,571</string>
+    <string name="fes_det">Benton Fermentation Essence is a premium first essence containing Galactomyces Ferment Filtrate, Bifida Ferment Lysate, sh-Oligopeptide-1, and Ceramides. This essence helps to achieve smooth and youthful skin.</string>
+    <string name="fes_vol">100ml / 3.38 oz</string>
+    <string name="fes_fitur">For all skin types including sensitive skin, white translucent, liquid type</string>
+    <string name="fes_how">After washing your face, pump 1-2 times and rub evenly spread to your face. Then, gently tab to enhance the absorption.</string>
+    <string name="fes_ingredients">Galactomyces Ferment Filtrate, Aqua (Water), Butylene Glycol, Pentylene Glycol, Glycerin, 1,2-Hexanediol,
+               Bifida Ferment Lysate, Ceramide NP, Althaea Rosea Root Extract, Aloe Barbadensis Leaf Extract, Betaine,
+               Panthenol, Allantoin, Sodium Hyaluronate, sh-Oligopeptide-1, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract,
+               Usnea Barbata (Lichen) Extract, Adenosine, Arginine, Xanthan Gum, Hydrogenated Lecithin, Polysorbate 20, Lecithin</string>
+    <string name="fes_recom">-</string>
+
+    <string name="cf_name">Honest Cleansing Foam 150g</string>
+    <string name="cf_price">IDR 125,714</string>
+    <string name="cf_det">Benton Honest Line presents honest ingredients that you can be reassured of. Formulated with palm oil-derived natural surfactants, Benton Honest Cleansing Foam mildly cleanses fatigued skin caused by various stress and pollution. This face cleanser not only cleanses but further moisturizes, minimizing skin tightness.</string>
+    <string name="cf_vol">150g</string>
+    <string name="cf_fitur">For all skin types including sensitive skin, cream type</string>
+    <string name="cf_how">After washing your face, pump 1-2 times and rub evenly spread to your face. Then, gently tab to enhance the absorption.</string>
+    <string name="cf_ingredients">Galactomyces Ferment Filtrate, Aqua (Water), Butylene Glycol, Pentylene Glycol, Glycerin, 1,2-Hexanediol,
+               Bifida Ferment Lysate, Ceramide NP, Althaea Rosea Root Extract, Aloe Barbadensis Leaf Extract, Betaine,
+               Panthenol, Allantoin, Sodium Hyaluronate, sh-Oligopeptide-1, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract,
+               Usnea Barbata (Lichen) Extract, Adenosine, Arginine, Xanthan Gum, Hydrogenated Lecithin, Polysorbate 20, Lecithin</string>
+    <string name="cf_recom">-</string>
+
+    <string name="mask_name">Snail Bee High Content Mask</string>
+    <string name="mask_price">IDR 35,714</string>
+    <string name="mask_det">Snail Bee High Content Mask Pack is tested under dermatological control. Camellia Sinensis Leaf Water, Snail Secretion Filtrate, Bee Venom, sh-Oligopeptide-1, and various botanical extracts are used to help improve your complexion. This sheet mask helps keep your skin hydrated and smooth.</string>
+    <string name="mask_vol">20g / 0.7 oz.</string>
+    <string name="mask_fitur">For all skin types including sensitive skin, liquid type</string>
+    <string name="mask_how">1. Prepare your skin with skin toner after washing your face.\n
+        2. Open the packaging and place the mask gently over the face make sure it adheres to the face.\n
+        3. After 20~30 minutes remove the mask, then pat the leftover essence gently into the skin.</string>
+    <string name="mask_ingredients">Camellia Sinensis Leaf Water, Aqua (Water), Butylene Glycol, Glycerin, Snail Secretion Filtrate, Niacinamide, Pentylene Glycol,
+               1,2-Hexanediol, Sodium Hyaluronate, Plantago Asiatica Extract, Laminaria Digitata Extract, Diospyros Kaki Leaf Extract,
+               Salix Alba (Willow) Bark Extract, Ulmus Campestris (Elm) Bark Extract, Althaea Rosea Root Extract, Aloe Barbadensis Leaf Extract,
+               sh-Oligopeptide-1, Beta-Glucan, Betaine, Panthenol, Allantoin, Xanthan Gum, Adenosine, Bee Venom, Polysorbate 20, Lecithin,
+               Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract</string>
+    <string name="mask_recom">-</string>
+
+    <string name="skin_name">Snail Bee High Content Skin 150ml</string>
+    <string name="skin_price">IDR 242,857</string>
+    <string name="skin_det">Snail Bee High Content Skin is tested under dermatological control. Snail Secretion Filtrate, Camellia Sinensis Leaf Water, Bee Venom, sh-Oligopeptide-1,
+               and various botanical extracts are used to help improve your complexion. This skin toner helps keep your skin hydrated and smooth</string>
+    <string name="skin_vol">150ml / 5.07 fl. oz.</string>
+    <string name="skin_fitur">For all skin types including sensitive skin, liquid type</string>
+    <string name="skin_how">After washing your face with Benton Honest Cleansing Foam, pump 1-2 times and take appropriate amount and rub evenly spread on your face, and then gently tab to enhance the absorption.</string>
+    <string name="skin_ingredients">Aqua (Water), Snail Secretion Filtrate, Camellia Sinensis Leaf  Water, Butylene Glycol, Glycerin, Niacinamide,
+              1,2-Hexanediol, sh-Oligopeptide-1, Bee Venom, Diospyros Kaki Leaf Extract, Salix Alba (Willow) Bark Extract,
+              Plantago Asiatica Extract, Laminaria Digitata Extract, Ulmus Campestris (Elm) Bark Extract, Pentylene Glycol,
+              Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract,
+              Althaea Rosea Root Extract, Aloe Barbadensis Leaf Extract, Betaine, Panthenol, Beta-Glucan, Allantoin,
+              Adenosine, Polysorbate 20, Lecithin</string>
+    <string name="skin_recom">-</string>
+
+    <string name="steam_name">Snail Bee High Content Steam Cream 50g</string>
+    <string name="steam_price">IDR 242,857</string>
+    <string name="steam_det">Snail Bee High Content Steam Cream is tested under dermatological control. Snail Secretion Filtrate, Bee Venom, sh-Oligopeptide-1, Hyaluronic Acid, and various botanical extracts
+               are used to help improve your complexion. The creamy formula, blended at high temperature using steam method, provides long-lasting moisture. This cream helps keep your skin moisturized and smooth.</string>
+    <string name="steam_vol">50g / 1.76 oz.</string>
+    <string name="steam_fitur">For all skin types including sensitive skin, cream type, plastic tube</string>
+    <string name="steam_how">Pump 1-2 times and take appropriate amount and rub evenly spread on your face, and then gently tab to enhance the absorption.</string>
+    <string name="steam_ingredients">Aqua (Water), Butylene Glycol, Snail Secretion Filtrate, Glycerin, Cetyl Ethylhexanoate, Niacinamide, Behenyl Alcohol,
+              1,2-Hexanediol, Cetearyl Olivate, Palmitic Acid, Sorbitan Olivate, Simmondsia Chinensis (Jojoba) Seed Oil,
+              Helianthus Annuus (Sunflower) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Argania Spinosa Kernel Oil, Sodium Hyaluronate,
+              Plantago Asiatica Extract, Diospyros Kaki Leaf Extract, Salix Alba (Willow) Bark Extract, Ulmus Campestris (Elm) Bark Extract,
+              Laminaria Digitata Extract, Tocopheryl Acetate, sh-Oligopeptide-1, Glyceryl Stearate, Stearic Acid, Lauric Acid, Myristic Acid,
+              Carbomer, Urea, Arginine, Adenosine, Bee Venom, Pentylene Glycol, Zanthoxylum Piperitum Fruit Extract, Pulsatilla Koreana
+              Extract, Usnea Barbata (Lichen) Extract, Polysorbate 20, Lecithin</string>
+    <string name="steam_recom">-</string>
+
+    <string name="es_name">Snail Bee High Content Essence 60ml</string>
+    <string name="es_price">IDR 242,857</string>
+    <string name="es_det">Snail Bee High Content Essence is tested under dermatological control. Snail Secretion Filtrate,
+             Bee Venom, sh-Oligopeptide-1, and various botanical extracts are used to help improve your complexion.
+             This essence helps keep your skin hydrated and smooth.</string>
+    <string name="es_vol">60ml / 2.02 fl. oz.</string>
+    <string name="es_fitur">For all skin types including sensitive skin, liquid type, plastic pump</string>
+    <string name="es_how">Pump 1-2 times and take appropriate amount and rub evenly spread on your face, and then gently tab to enhance the absorption.</string>
+    <string name="es_ingredients">Aqua(Water), Snail Secretion Filtrate, Butylene Glycol, Glycerin, Niacinamide, 1,2-Hexanediol, Aloe Barbadensis Leaf Juice,
+              sh-Oligopeptide-1, Bee Venom, Plantago Asiatica Extract, Laminaria Digitata Extract, Diospyros Kaki Leaf Extract, Salix Alba (Willow) Bark Extract,
+              Ulmus Campestris (Elm) Bark Extract, Althaea Rosea Root Extract, Aloe Barbadensis Leaf Extract, Beta-Glucan, Betaine,
+              Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Adenosine, Panthenol, Allantoin, Pentylene Glycol, Zanthoxylum Piperitum Fruit Extract,
+              Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract, Polysorbate 20, Lecithin, Arginine</string>
+    <string name="es_recom">-</string>
+
+    <string name="lot_name">Snail Bee High Content Lotion 120ml</string>
+    <string name="lot_price">IDR 242,857</string>
+    <string name="lot_det">Snail Bee High Content Lotion is tested under dermatological control.
+                   Snail Secretion Filtrate, Bee Venom, sh-Oligopeptide-1, Hyaluronic Acid,
+                   and various botanical extracts are used to help improve your complexion.
+                   This lotion helps keep your skin moisturized and smooth.</string>
+    <string name="lot_vol">120ml / 4.05 fl. oz.</string>
+    <string name="lot_fitur">For all skin types including sensitive skin, fluid cream type, plastic pump</string>
+    <string name="lot_how">Pump 1-2 times and take appropriate amount and rub evenly spread on your face, and then gently tab to enhance the absorption.</string>
+    <string name="lot_ingredients">Aqua (Water), Butylene Glycol, Snail Secretion Filtrate, Glycerin, Cetyl Ethylhexanoate,
+                Niacinamide, Sodium Hyaluronate, Cetearyl Olivate, Sorbitan Olivate, Simmondsia Chinensis (Jojoba) Seed Oil,
+                Argania Spinosa Kernel Oil, Helianthus Annuus (Sunflower) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil,
+                Urea, Glyceryl Stearate, Palmitic Acid, 1,2-Hexanediol, Pentylene Glycol, Zanthoxylum Piperitum Fruit Extract,
+                Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract, sh-Oligopeptide-1, Bee Venom,
+                Cetearyl Alcohol, Xanthan Gum, Stearic Acid, Tocopheryl Acetate, Althaea Rosea Root Extract,
+                Aloe Barbadensis Leaf Extract, Panthenol, Lauric Acid, Myristic Acid, Aloe Barbadensis Leaf Juice,
+                Beta-Glucan, Plantago Asiatica Extract, Diospyros Kaki Leaf Extract, Salix Alba (Willow) Bark Extract,
+                Ulmus Campestris (Elm) Bark Extract, Laminaria Digitata Extract, Adenosine, Polysorbate 20, Lecithin</string>
+    <string name="lot_recom">-</string>
+
+    <string name="at_name">Aloe BHA Skin Toner 200ml</string>
+    <string name="at_price">IDR 230,714</string>
+    <string name="at_det">Aloe BHA Skin Toner is tested under dermatological control. This toner contains Aloe Barbadensis Leaf Water,  Aloe Barbadensis Leaf  Extract, and Aloe Barbadensis Leaf  Juice.
+               BHA(0.5%), Snail Secretion Filtrate, Hyaluronic Acid and Beta-Glucan are used with natural preservatives. This slightly acidic toner is designed for daily use.\n
+               Aloe BHA Skin Toner is registered as OTC drug in FDA, for Anti-Acne function. (FDA NDC Code : 69998-150-02)</string>
+    <string name="at_vol">200ml / 6.76 fl. oz.</string>
+    <string name="at_fitur">For all skin types including sensitive skin, liquid type, plastic pump</string>
+    <string name="at_how">Pump 1-2 times and take appropriate amount and rub evenly spread on your face, and then gently tab to enhance the absorption.</string>
+    <string name="at_ingredients">Aloe Barbadensis Leaf Water(80%), Aqua (Water), Butylene Glycol, Glycerin,
+               1,2-Hexanediol, Sodium Hyaluronate, Snail Secretion Filtrate, Beta-Glucan, Polyglutamic Acid,
+               Aspalathus Linearis Extract, Portulaca Oleracea Extract, Psidium Guajava Fruit Extract,
+               Salicylic Acid(0.5%), Althaea Rosea Root Extract, Aloe Barbadensis Leaf Extract(200mg),
+               Aloe Barbadensis Leaf Juice(200mg), Arginine, Pentylene Glycol, Zanthoxylum Piperitum Fruit Extract,
+               Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract, Polysorbate 20,
+               Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum</string>
+    <string name="at_recom">-</string>
+
+    <string name="gel_name">Aloe Propolis Soothing Gel 100ml</string>
+    <string name="gel_price">IDR 271,428</string>
+    <string name="gel_det"> Aloe Propolis Soothing Gel is tested under dermatological control.
+             The product contains Aloe Vera, rich in polysaccharides and Propolis Extract, well known for its soothing properties. This soothing gel leaves skin refreshed and hydrated.</string>
+    <string name="gel_vol">100ml</string>
+    <string name="gel_fitur">For all skin types including sensitive skin, watery type with no oiliness, plastic tube</string>
+    <string name="gel_how">Pump 1-2 times and take appropriate amount and rub evenly spread on your face, and then gently tab to enhance the absorption</string>
+    <string name="gel_ingredients">Aloe Barbadensis Leaf Water, Butylene Glycol, Aqua (Water), Pentylene Glycol, 1,2-Hexanediol, Glycerin, Propolis Extract,
+               Aloe Barbadensis Leaf Extract, Betaine, Cucumis Sativus (Cucumber) Fruit Extract, Portulaca Oleracea Extract,
+               Camellia Sinensis Leaf Extract, Allantoin, Aloe Barbadensis Leaf Juice Powder, Zanthoxylum Piperitum Fruit Extract,
+               Pulsatilla Koreana Extract, Usnea Barbata (Lichen) Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Arginine</string>
+    <string name="gel_recom">-</string>
+
+    <string name="ps_name">Papaya-S Sun Cream SPF50+ / PA++++ 50g</string>
+    <string name="ps_price">IDR 225,000</string>
+    <string name="ps_det">Benton’s Papaya-S Sun Cream is a physical and chemical sunscreen designed for outdoor activities.</string>
+    <string name="ps_vol">50g / 1.76 oz.</string>
+    <string name="ps_fitur">For all skin types, white cream, tube type</string>
+    <string name="ps_how">Apply a suitable amount to face evenly and gently tab until absorbed</string>
+    <string name="ps_ingredients">Carica Papaya (Papaya) Fruit Water(43%), Titanium Dioxide, Ethylhexyl Methoxycinnamate, Zinc Oxide, Octyldodecanol, Dicaprylyl Carbonate,
+        Coco-Caprylate/Caprate, C12-15 Alkyl Benzoate, Cetyl PEG/PPG-10/1 Dimethicone, Pentylene Glycol, Niacinamide,
+        Helianthus Annuus (Sunflower) Seed Oil, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Glycerin, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine,
+        Aqua (Water), 1,2-Hexanediol, Polyglyceryl-3 Diisostearate, Magnesium Sulfate, Beeswax, Aluminum Hydroxide,
+        Dimethicone, Propanediol,Hydrogen Dimethicone, Disteardimonium Hectorite, Carica Papaya Seed Oil(5000ppm), Glyceryl Caprylate,
+        Dimethicone/Vinyl Dimethicone Crosspolymer, Triethoxycaprylylsilane, Panthenol, Butyrospermum Parkii (Shea) Butter, Beta-Glucan, Carica Papaya (Papaya) Fruit Extract(750ppm),
+        Xanthan Gum, Xylitylglucoside, Anhydroxylitol, Xylitol, Adenosine, Carthamus Tinctorius (Safflower) Bud Extract, Disodium Adenosine Triphosphate,
+        Papain(100ppm), Algin, Glucose, Geranium Maculatum Oil</string>
+    <string name="ps_recom">-</string>
+
+    <string name="pd_name">Papaya-D Sun Cream SPF38 / PA++++ 50g</string>
+    <string name="pd_price">IDR 214,285</string>
+    <string name="pd_det">Benton’s Papaya-D Sun Cream is a physical and chemical sunscreen designed for daily use.</string>
+    <string name="pd_vol">50g / 1.76 oz.</string>
+    <string name="pd_fitur">For all skin types including sensitive skin, white cream, tube type</string>
+    <string name="pd_how">Apply a suitable amount to face evenly and gently tab until absorbed</string>
+    <string name="pd_ingredients">Carica Papaya (Papaya) Fruit Water, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Isoamyl p-Methoxycinnamate, Glycerin,
+        Dicaprylyl Carbonate, Cetearyl Alcohol, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Pentylene Glycol, Niacinamide,
+        Glyceryl Stearate, C12-15 Alkyl Benzoate, Cetearyl Olivate, Sorbitan Olivate, 1,2-Hexanediol, Simmondsia Chinensis (Jojoba) Seed Oil,
+        Caprylic/Capric Triglyceride, Aluminum Hydroxide, Panthenol, Carica Papaya (Papaya) Seed Oil, Glyceryl Caprylate, Stearic Acid,
+        Aqua (Water), Ammonium Acryloyldimethyltaurate/VP Copolymer, Xanthan Gum, Carica Papaya (Papaya) Fruit Extract, Tocopherol,
+        Dipotassium Glycyrrhizate, Helianthus Annuus (Sunflower) Seed Oil, Xylitylglucoside, Anhydroxylitol, Xylitol, Papain, Propanediol,
+        Adenosine, Sodium Gluconate, Disodium Adenosine Triphosphate, Algin, Carthamus Tinctorius (Safflower) Bud Extract, Glucose,
+        Geranium Maculatum Oil</string>
+    <string name="pd_recom">-</string>
+
+    <string name="deep_name">Benton Deep Green Tea Toner 150ml</string>
+    <string name="deep_price">IDR 182,857</string>
+    <string name="deep_det">Benton Deep Green Tea Toner is a light and hydrating toner enriched with Green Tea from Boseong, which is the most famous tea producing area in Korea. The toner replenishes moisture, soothes and freshens, while leaving skin healthy and clear.</string>
+    <string name="deep_vol">150ml / 5.07 fl. oz.</string>
+    <string name="deep_fitur">For all skin types including sensitive skin, brownish transparent liquid</string>
+    <string name="deep_how">After cleansing, apply a suitable amount to the face with hands or cotton pad.</string>
+    <string name="deep_ingredients">Camellia Sinensis Leaf Water(50%), Aqua (Water), Butylene Glycol, 1,2-Hexanediol, Glycerin, Pentylene Glycol,
+        Sodium Hyaluronate, Centella Asiatica Extract, Houttuynia Cordata Extract, Camellia Sinensis Leaf Extract,
+        Camellia Sinensis Seed Extract, Camellia Sinensis Root Extract, Salix Nigra (Willow) Bark Extract, Punica Granatum Fruit Extract, Betaine</string>
+    <string name="deep_recom">-</string>
+
+    <string name="deeplot_name">Benton Deep Green Tea Lotion 120ml</string>
+    <string name="deeplot_price">IDR 182,857</string>
+    <string name="deeplot_det">Benton Deep Green Tea Lotion is a light moisturizer enriched with Green Tea from Boseong, which is the most famous tea producing area in Korea. The lotion replenishes moisture, soothes, and freshens, while leaving skin healthy and clear. </string>
+    <string name="deeplot_vol">120ml / 4.05 fl. oz.</string>
+    <string name="deeplot_fitur">For all skin types including sensitive skin, white lotion consistency</string>
+    <string name="deeplot_how">After preparing skin with toner, apply a suitable to face and spread evenly. Softly pad to absorb.</string>
+    <string name="deeplot_ingredients">Camellia Sinensis Leaf Water (50%), Aqua (Water), Caprylic/Capric Triglyceride, Glycerin, Butylene Glycol, Pentylene Glycol, 1,2-Hexanediol, Cetearyl Glucoside, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Centella Asiatica Extract,
+        Houttuynia Cordata Extract, Stearyl Alcohol, Cetyl Alcohol, Camellia Sinensis Leaf Extract, Camellia Sinensis Seed Extract,
+        Camellia Sinensis Root Extract, Punica Granatum Fruit Extract, Tocopherol, Betaine, Arginine, Carbomer, Xanthan Gum</string>
+    <string name="deeplot_recom">-</string>
+
+</resources>

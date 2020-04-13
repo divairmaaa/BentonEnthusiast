@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bentonenthusiast">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true">
+
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".About"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".CacaoCream"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".CacaoSerum"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".CacaoToner"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".AloeToner"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Cleansing"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Coconut"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".CoconutOlive"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".DearBf"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".EyeCream"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".FermenEssence"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".GreenTeaLotion"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".GreenTeaToner"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".PapayaD"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".PapayaS"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SnailCream"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SnailEssence"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SnailLotion"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SnailMask"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SnailSkin"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SoothingGel"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Tips"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>

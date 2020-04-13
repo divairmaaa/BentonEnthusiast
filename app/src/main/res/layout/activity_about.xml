@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_about"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/text">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/photo"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginLeft="100dp"
+        android:src="@drawable/foto" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:layout_marginLeft="130dp">
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:paddingLeft="2dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_marginTop="80dp"
+            android:text="Diva Irma Ayunita" />
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textSize="14sp"
+            android:paddingLeft="8dp"
+            android:text="divairmaa@yahoo.com" />
+    </LinearLayout>
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/btm_nav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:itemBackground="@color/colorPrimary"
+        app:itemIconTint="@drawable/state_list"
+        app:itemTextColor="@drawable/state_list"
+        app:menu="@menu/menu_bottom_nav_view" />
+</RelativeLayout>
